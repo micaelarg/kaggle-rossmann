@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mik/Documents/GitHub/kaggle-rossmann/mlruns/0/6e8c3c0f21c3469ca099606fbe5b4793/artifacts
+end_time: 1678640583479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e8c3c0f21c3469ca099606fbe5b4793
+run_name: smiling-cod-928
+run_uuid: 6e8c3c0f21c3469ca099606fbe5b4793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678631852672
+status: 3
+tags: []
+user_id: mik

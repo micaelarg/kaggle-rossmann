@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mik/Documents/GitHub/kaggle-rossmann/mlruns/0/f2950713d6a84d7ea0e9a95d52ebb048/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f2950713d6a84d7ea0e9a95d52ebb048
+run_name: flawless-shrimp-369
+run_uuid: f2950713d6a84d7ea0e9a95d52ebb048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678642542556
+status: 1
+tags: []
+user_id: mik
